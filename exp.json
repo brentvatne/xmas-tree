@@ -1,0 +1,20 @@
+{
+  "name": "xmas-tree",
+  "description": "A christmas tree animation by Konstantin Shkut, see the tutorial at: http://rationalappdev.com/christmas-tree-animation-in-react-native/",
+  "slug": "xmas-tree",
+  "sdkVersion": "12.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "red",
+  "iconUrl": "http://url.brentvatne.ca/DOGf.png",
+  "loading": {
+    "iconUrl": "http://url.brentvatne.ca/DOGf.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}
